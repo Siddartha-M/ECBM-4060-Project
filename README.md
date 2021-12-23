@@ -1,9 +1,9 @@
 # ECBM-4060-Project
 
 ## Basic info
-This is the final project for ECBM 4060
-Authors: Mingyuan Zhang, Siddartha Marella
-Description: An interactive tool for SARS-CoV-2 epidemic trends analysis
+This is the final project for ECBM 4060. 
+Authors: Mingyuan Zhang, Siddartha Marella. 
+Description: An interactive tool for SARS-CoV-2 epidemic trends analysis. 
 
 ## Prerequisite and Dependency
 
